@@ -32,18 +32,14 @@
 
 ## ⚡ Как использовать код
 
-1️⃣ Склонируй репозиторий:  
+Склонируй репозиторий:  
 ```bash
-git clone https://github.com/ТВОЙ_НИК/python-course.git
-cd python-course
+git clone https://github.com/shzanya/Shanya_course
+cd Shanya_course
 ```
-2️⃣ Установи зависимости:  
+Установи зависимости:  
 ```bash
 pip install -r requirements.txt
-```
-3️⃣ Запусти скрипт:  
-```bash
-python main.py
 ```
 
 ---
